@@ -4,6 +4,7 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 	<?php wp_head(); ?>
+    <!--   Testing github   -->
 </head>
 <body <?php body_class(); ?>>
 	<?php get_sidebar( 'off-canvas'); ?>
